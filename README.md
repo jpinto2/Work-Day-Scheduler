@@ -22,7 +22,23 @@ This is an image of the deployed website:
 
 ## Credits
 
-This is the web address for the github repo the starter code was obtained from: https://github.com/coding-boot-camp/friendly-parakeet
+This is the web address for the github repo the starter code was obtained from: https://github.com/coding-boot-camp/super-disco
+
+I used jquery, fontawesome, boostrap, and moment third party apis in my code
+
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
+https://api.jquery.com/
+
+https://fontawesome.com/docs/apis/
+
+https://momentjs.com/
+
+I used this sources as research in some of my code:
+
+https://www.sitepoint.com/jquery-each-function-examples/
+
+https://www.w3schools.com/icons/tryit.asp?icon=fas_fa-save&unicon=f0c7
 
 ## License
 
