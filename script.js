@@ -48,7 +48,7 @@ $(function ()  {
     }
 
    
-    //gets any locally stored values in descriptions and displays them on web page in textarea
+    //gets any locally stored values in descriptions and displays them on web page in textarea for each time block
     $("#9 .description").val(localStorage.getItem("9"));
     $("#10 .description").val(localStorage.getItem("10"));
     $("#11 .description").val(localStorage.getItem("11"));
